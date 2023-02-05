@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">haslo2</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="posiada_cyfr">Posiada cyfrę</string>
+    <string name="obecna_ma_a_litera">Obecna mała litera</string>
+    <string name="wproawd_has_o">Wproawdź hasło</string>
+    <string name="powt_rz_has_o">Powtórz hasło</string>
+    <string name="posiada_znak_specjalny">Posiada znak specjalny</string>
+    <string name="obecna_wielka_litera">Obecna wielka litera</string>
+    <string name="has_a_s_zgodne">Hasła są zgodne</string>
+    <string name="sprawd">Sprawdź</string>
+</resources>
